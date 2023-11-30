@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/fsdsmendtoend/mlruns/0/75c46337676b4114a1849b74b77a708d/artifacts
+end_time: 1701167031558
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 75c46337676b4114a1849b74b77a708d
+run_name: gregarious-gnu-368
+run_uuid: 75c46337676b4114a1849b74b77a708d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701167028655
+status: 3
+tags: []
+user_id: sadhu
