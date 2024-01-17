@@ -1,0 +1,15 @@
+artifact_uri: file:///D:/fsdsmendtoend/mlruns/0/7d8dd73bc9a74fb9b7e940dedac78179/artifacts
+end_time: 1705502449508
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 7d8dd73bc9a74fb9b7e940dedac78179
+run_name: fun-shrike-214
+run_uuid: 7d8dd73bc9a74fb9b7e940dedac78179
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1705502446148
+status: 3
+tags: []
+user_id: sadhu

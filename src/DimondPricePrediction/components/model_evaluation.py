@@ -30,7 +30,7 @@ class ModelEvaluation:
 
         
 
-            mlflow.set_registry_uri("https://github.com/sadhujaya6/fsdsmendtoend.git")
+            mlflow.set_registry_uri("https://dagshub.com/sadhujaya6/fsdsmendtoend.mlflow")
             
             tracking_url_type_store = urlparse(mlflow.get_tracking_uri()).scheme
             
